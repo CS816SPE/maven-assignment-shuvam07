@@ -1,4 +1,4 @@
-mport java.io.*;
+import java.io.*;
 public class calculator
 {
 	public static void main(String[] args) throws IOException
