@@ -1,5 +1,5 @@
 mport java.io.*;
-public class cal
+public class calculator
 {
 	public static void main(String[] args) throws IOException
 	{
